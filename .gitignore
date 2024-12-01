@@ -1,2 +1,3 @@
 ./notebooks/SCCcounts*
 ./notebooks/.*
+./notebooks/checkpoint.head
